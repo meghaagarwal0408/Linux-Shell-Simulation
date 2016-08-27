@@ -1,0 +1,44 @@
+ 1 export
+ 2 export x=5
+ 3 echo $x
+ 4 export megha=sadsads
+ 5 export
+ 6 cd
+ 7 cd megha
+ 8 cd Downloads
+ 9 cd 201506511
+ 10 ls -R ~/
+ 11 ls -R
+ 12 ls -R ./
+ 13 ls -R ./~
+ 14 ls -R .~/
+ 15 ls -R ../
+ 16 ls -R ../
+ 17 ls -R ../
+ 18 ls -R ~./
+ 19 sssssslllllllllllll
+ 20 sssssssssssssssssssssssda
+ 21 asdasadsadasd
+ 22 asdasasdasdsad asd asd
+ 23 cd $HOME
+ 24 $HOME
+ 25 echo $HOME
+ 26 cd $HOME
+ 27 cd ~
+ 28 cd megha
+ 29 cd Downloads
+ 30 cd
+ 31 ls -l | echo "A"
+ 32 fuck
+ 33 ls -l
+ 34 clear
+ 35 exit
+ 36 echo "hello"
+ 37 echo "hello" | grep h
+ 38 echo "hello" | grep "h"
+ 39 ls | xargs echo
+ 40 history
+ 41  41 q
+ 42 we
+ 43 history
+ 44 
